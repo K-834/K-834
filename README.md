@@ -1,7 +1,7 @@
 <h2 align="left">Hola 👋, soy Anthony Kapoor</h2>
 
-- 💼 Soy estudiante de Sistemas e Informática en la UTP
-- 💬 Me interesa discutir sobre oportunidades de trabajo y freelancing en desarrollo backend, frontend e inteligencia artificial
+- 💼 Soy estudiante de Sistemas e Informática
+- 💬 Me interesa hablar sobre el desarrollo backend, frontend e inteligencia artificial
 - 👯 Estoy buscando colaborar en proyectos de ingeniería de software, especialmente en desarrollo backend y frontend
 - 🚀 Estoy abierto a ofertas de prácticas pre-profesionales y proyectos innovadores en el campo de la inteligencia artificial
 
