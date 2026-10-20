@@ -1,9 +1,9 @@
 <h2 align="left">Hola 👋, soy Anthony Kapoor</h2>
 
-- 💼 Soy estudiante de Sistemas e Informática
+- 💼 Ing de Sistemas e Informática
 - 💬 Me interesa hablar sobre el desarrollo backend, frontend e inteligencia artificial
 - 👯 Estoy dispuesto a colaborar en proyectos de desarrollo backend, frontend e IA
-- 🚀 Estoy abierto a ofertas de prácticas pre-profesionales en el campo de la inteligencia artificial o en el desarrollo backend y frontend
+- 🚀 Estoy abierto a ofertas laborales en el campo de la inteligencia artificial o en el desarrollo backend y frontend
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 
